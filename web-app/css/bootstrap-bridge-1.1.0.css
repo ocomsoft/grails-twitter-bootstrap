@@ -1,0 +1,15 @@
+form .buttons {
+	margin-left: 150px;
+}
+
+/* Table Sorting */
+th.asc a, th.desc a {
+    background-position: right;
+    background-repeat: no-repeat;
+}
+th.asc a {
+    background-image: url(../images/skin/sorted_asc.gif);
+}
+th.desc a {
+    background-image: url(../images/skin/sorted_desc.gif);
+}
